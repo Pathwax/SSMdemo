@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:23:53:45 +0800] "GET /heima_ssm_web/login.do HTTP/1.1" 302 - http-bio-8888-exec-1 82
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:23:53:46 +0800] "GET /heima_ssm_web/login.jsp HTTP/1.1" 200 2633 http-bio-8888-exec-3 473
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:23:53:46 +0800] "GET /heima_ssm_web/login.do HTTP/1.1" 302 - http-bio-8888-exec-4 8
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:23:53:53 +0800] "POST /heima_ssm_web/login.do HTTP/1.1" 200 13281 http-bio-8888-exec-5 1036
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:23:53:57 +0800] "GET /heima_ssm_web/sysLog/findAll.do HTTP/1.1" 200 17126 http-bio-8888-exec-6 226
+0:0:0:0:0:0:0:1 - - [09/Jul/2020:23:54:44 +0800] "GET /heima_ssm_web/sysLog/findAll.do HTTP/1.1" 200 17526 http-bio-8888-exec-8 20
